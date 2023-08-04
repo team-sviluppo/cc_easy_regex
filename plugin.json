@@ -1,0 +1,10 @@
+{
+  "name": "Cheshire Cat Easy Regex",
+  "description": "Plugin che permette di genrare regulare expression da una descrizione verbale della regex",
+  "author_name": "Team Sviluppo",
+  "author_url": "https://www.teamsviluppo.it/",
+  "plugin_url": "https://github.com/cheshire-cat-ai/core",
+  "tags": "plugins",
+  "thumb": "",
+  "version": "1.0.0"
+}
