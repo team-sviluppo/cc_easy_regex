@@ -3,8 +3,8 @@
   "description": "Plugin che permette di genrare regulare expression da una descrizione verbale della regex",
   "author_name": "Team Sviluppo",
   "author_url": "https://www.teamsviluppo.it/",
-  "plugin_url": "https://github.com/cheshire-cat-ai/core",
+  "plugin_url": "https://github.com/team-sviluppo/cc_easy_regex",
   "tags": "plugins",
-  "thumb": "",
+  "thumb": "https://github.com/team-sviluppo/cc_easy_regex/blob/main/cceasyregexlogo.png?raw=true",
   "version": "1.0.0"
 }
